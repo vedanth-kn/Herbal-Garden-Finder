@@ -1,0 +1,355 @@
+[
+    {
+      "SYMPTOMS": ["Cough", "Cold", "Respiratory Infections", "Stress"],
+      "medicinalPlantName": "Tulsi",
+      "scientificName": "Ocimum sanctum",
+      "USAGE": "Use leaves in tea or chew raw for respiratory issues.",
+      "noOfDosage": "Two to three fresh leaves or one cup of tea daily."
+    },
+    {
+      "SYMPTOMS": ["Skin Infections", "Acne", "Wound Healing", "Dandruff"],
+      "medicinalPlantName": "Neem",
+      "scientificName": "Azadirachta indica",
+      "USAGE": "Apply paste or oil topically for skin; use tea for internal cleansing.",
+      "noOfDosage": "Apply paste twice daily or drink one cup of tea daily."
+    },
+    {
+      "SYMPTOMS": ["Burns", "Wounds", "Constipation", "Skin Conditions"],
+      "medicinalPlantName": "Aloe Vera",
+      "scientificName": "Aloe barbadensis",
+      "USAGE": "Apply gel topically for burns or consume juice for constipation.",
+      "noOfDosage": "Apply gel twice daily or consume 30 ml of juice once daily."
+    },
+    {
+      "SYMPTOMS": ["Nausea", "Indigestion", "Inflammation", "Cold"],
+      "medicinalPlantName": "Ginger",
+      "scientificName": "Zingiber officinale",
+      "USAGE": "Consume as tea or add fresh slices to meals for nausea or inflammation.",
+      "noOfDosage": "Consume 1-2 slices or one cup of tea twice daily."
+    },
+    {
+      "SYMPTOMS": ["Joint Pain", "Inflammation", "Skin Issues", "Wounds"],
+      "medicinalPlantName": "Turmeric",
+      "scientificName": "Curcuma longa",
+      "USAGE": "Use as powder in milk or paste for wounds; consume in food for joint pain.",
+      "noOfDosage": "One teaspoon of powder twice daily or apply paste as needed."
+    },
+    {
+      "SYMPTOMS": ["Stress", "Anxiety", "Fatigue", "Low Immunity"],
+      "medicinalPlantName": "Ashwagandha",
+      "scientificName": "Withania somnifera",
+      "USAGE": "Take as powder or capsules with warm milk to reduce stress and fatigue.",
+      "noOfDosage": "Take 300–600 mg capsules twice daily."
+    },
+    {
+      "SYMPTOMS": ["Memory Issues", "Anxiety", "Cognitive Decline"],
+      "medicinalPlantName": "Brahmi",
+      "scientificName": "Bacopa monnieri",
+      "USAGE": "Brew as tea or consume powder with water for memory and focus.",
+      "noOfDosage": "Consume 1–2 teaspoons of powder daily."
+    },
+    {
+      "SYMPTOMS": ["Hormonal Imbalances", "PMS", "Lactation Support"],
+      "medicinalPlantName": "Shatavari",
+      "scientificName": "Asparagus racemosus",
+      "USAGE": "Take as powder or tablets for hormonal balance and lactation support.",
+      "noOfDosage": "Take 500 mg capsules twice daily or 1 teaspoon of powder."
+    },
+    {
+      "SYMPTOMS": ["Cough", "Asthma", "Bronchitis"],
+      "medicinalPlantName": "Vasaka",
+      "scientificName": "Adhatoda vasica",
+      "USAGE": "Use leaf juice or syrup for asthma and cough relief.",
+      "noOfDosage": "Consume 5–10 ml of syrup twice daily."
+    },
+    {
+      "SYMPTOMS": ["Indigestion", "Nausea", "Headaches"],
+      "medicinalPlantName": "Peppermint",
+      "scientificName": "Mentha piperita",
+      "USAGE": "Brew as tea for digestion or inhale oil for headaches.",
+      "noOfDosage": "Drink one cup of tea up to three times daily."
+    },
+    {
+      "SYMPTOMS": ["Fever", "Low Immunity", "Inflammation"],
+      "medicinalPlantName": "Giloy",
+      "scientificName": "Tinospora cordifolia",
+      "USAGE": "Consume as juice or tablets to boost immunity and reduce fever.",
+      "noOfDosage": "Take 10–20 ml of juice or one capsule twice daily."
+    },
+    {
+      "SYMPTOMS": ["Indigestion", "Bloating", "Colic"],
+      "medicinalPlantName": "Fennel",
+      "scientificName": "Foeniculum vulgare",
+      "USAGE": "Chew seeds after meals for digestion or brew tea for colic.",
+      "noOfDosage": "Chew 1 teaspoon of seeds or drink tea twice daily."
+    },
+    {
+      "SYMPTOMS": ["High Cholesterol", "Hypertension", "Infections"],
+      "medicinalPlantName": "Garlic",
+      "scientificName": "Allium sativum",
+      "USAGE": "Eat raw cloves or use in meals for cholesterol and blood pressure management.",
+      "noOfDosage": "Eat 1–2 raw cloves daily."
+    },
+    {
+      "SYMPTOMS": ["Heart Diseases", "High Blood Pressure"],
+      "medicinalPlantName": "Arjuna",
+      "scientificName": "Terminalia arjuna",
+      "USAGE": "Brew bark as tea or take capsules for heart health.",
+      "noOfDosage": "Drink one cup of bark decoction or take 500 mg tablets twice daily."
+    },
+    {
+      "SYMPTOMS": ["Weak Immunity", "Digestion Issues", "Scurvy"],
+      "medicinalPlantName": "Amla",
+      "scientificName": "Phyllanthus emblica",
+      "USAGE": "Consume raw, as juice, or in powder form for immunity and digestion.",
+      "noOfDosage": "Consume one fresh fruit daily or 10–20 ml juice twice daily."
+    },
+    {
+      "SYMPTOMS": ["Nutritional Deficiencies", "Weakness", "Inflammation"],
+      "medicinalPlantName": "Moringa",
+      "scientificName": "Moringa oleifera",
+      "USAGE": "Use fresh leaves in soups or take powdered leaf supplements for nutrition.",
+      "noOfDosage": "Take 1–2 teaspoons of powder or fresh leaves daily."
+    },
+    {
+      "SYMPTOMS": ["Cold", "Flu", "Infections"],
+      "medicinalPlantName": "Echinacea",
+      "scientificName": "Echinacea purpurea",
+      "USAGE": "Brew as tea or take tincture for cold and flu.",
+      "noOfDosage": "Drink one cup of tea up to three times daily."
+    },
+    {
+      "SYMPTOMS": ["Sore Throat", "Ulcers", "Cough"],
+      "medicinalPlantName": "Licorice",
+      "scientificName": "Glycyrrhiza glabra",
+      "USAGE": "Suck on dried root or make tea for sore throat and ulcers.",
+      "noOfDosage": "Suck on one piece of dried root or drink one cup of tea twice daily."
+    },
+    {
+      "SYMPTOMS": ["PMS", "Menopause Symptoms", "Acne"],
+      "medicinalPlantName": "Chasteberry",
+      "scientificName": "Vitex agnus-castus",
+      "USAGE": "Take as capsules or tea for PMS and menopause symptoms.",
+      "noOfDosage": "Take 400–500 mg capsules daily or drink tea twice daily."
+    },
+    {
+        "SYMPTOMS": ["Depression", "Mood Swings"],
+        "medicinalPlantName": "St. John’s Wort",
+        "scientificName": "Hypericum perforatum",
+        "USAGE": "Use tea or capsules for mood improvement.",
+        "noOfDosage": "Consume 300 mg capsules twice daily."
+    },
+    {
+        "SYMPTOMS": ["Low Libido", "Low Energy", "Hormonal Imbalances"],
+        "medicinalPlantName": "Fenugreek",
+        "scientificName": "Trigonella foenum-graecum",
+        "USAGE": "Consume in powdered or capsule form to enhance energy and libido.",
+        "noOfDosage": "Take 1 teaspoon of powder or 300 mg capsules twice daily."
+    },
+    {
+        "SYMPTOMS": ["Joint Pain", "Muscle Pain", "Back Pain"],
+        "medicinalPlantName": "Devil's Claw",
+        "scientificName": "Harpagophytum procumbens",
+        "USAGE": "Use as cream or oil for joint and muscle pain relief.",
+        "noOfDosage": "Apply oil or cream as needed; repeat twice daily."
+    },
+    {
+        "SYMPTOMS": ["Pain Relief", "Inflammation"],
+        "medicinalPlantName": "Willow Bark",
+        "scientificName": "Salix alba",
+        "USAGE": "Apply as paste or use as tea for pain relief and inflammation.",
+        "noOfDosage": "Apply paste as needed or drink one cup of tea twice daily."
+    },
+    {
+        "SYMPTOMS": ["Skin Irritation", "Rashes", "Wound Healing"],
+        "medicinalPlantName": "Calendula",
+        "scientificName": "Calendula officinalis",
+        "USAGE": "Apply topically for skin irritation or use as lotion for rashes.",
+        "noOfDosage": "Apply topically two to three times daily."
+    },
+    {
+        "SYMPTOMS": ["Anxiety", "Restlessness", "Sleep Disorders"],
+        "medicinalPlantName": "Lemon Balm",
+        "scientificName": "Melissa officinalis",
+        "USAGE": "Brew as tea or use oil for sleep disorders and anxiety.",
+        "noOfDosage": "Drink one cup of tea or use 3–4 drops of oil before sleep."
+    },
+    {
+        "SYMPTOMS": ["Digestive Issues", "Sore Throat", "Cold"],
+        "medicinalPlantName": "Sage",
+        "scientificName": "Salvia officinalis",
+        "USAGE": "Use as a tea or gargle for throat issues.",
+        "noOfDosage": "Gargle with tea twice daily or drink one cup daily."
+    },
+    {
+        "SYMPTOMS": ["Respiratory Infections", "Indigestion", "Colds"],
+        "medicinalPlantName": "Thyme",
+        "scientificName": "Thymus vulgaris",
+        "USAGE": "Brew as a tea for respiratory infections and colds.",
+        "noOfDosage": "Drink one cup of tea up to three times daily."
+    },
+    {
+        "SYMPTOMS": ["Memory Improvement", "Focus Issues"],
+        "medicinalPlantName": "Rosemary",
+        "scientificName": "Rosmarinus officinalis",
+        "USAGE": "Consume in powder form or as tea for memory and focus.",
+        "noOfDosage": "Consume 1 teaspoon of powder or drink tea twice daily."
+    },
+    {
+        "SYMPTOMS": ["Digestive Upset", "Anxiety", "Sleep Disorders"],
+        "medicinalPlantName": "Chamomile",
+        "scientificName": "Matricaria chamomilla",
+        "USAGE": "Brew as tea or use extract for anxiety and digestive upset.",
+        "noOfDosage": "Drink one cup of tea twice daily or use drops of extract once daily."
+    },
+    {
+        "SYMPTOMS": ["Stress", "Anxiety", "Skin Healing"],
+        "medicinalPlantName": "Gotu Kola",
+        "scientificName": "Centella asiatica",
+        "USAGE": "Apply as paste for skin healing or consume tea for stress.",
+        "noOfDosage": "Apply paste as needed or drink tea once daily."
+    },
+    {
+        "SYMPTOMS": ["Bloating", "Colic", "Mild Pain"],
+        "medicinalPlantName": "Catnip",
+        "scientificName": "Nepeta cataria",
+        "USAGE": "Brew as tea or use oil for mild pain and colic.",
+        "noOfDosage": "Drink one cup of tea twice daily."
+    },
+    {
+        "SYMPTOMS": ["Insomnia", "Anxiety", "Restlessness"],
+        "medicinalPlantName": "Lavender",
+        "scientificName": "Lavandula angustifolia",
+        "USAGE": "Use oil in aromatherapy or tea for relaxation and restlessness.",
+        "noOfDosage": "Inhale oil once or drink tea before bed."
+    },
+    {
+        "SYMPTOMS": ["Anemia", "Blood Pressure Issues"],
+        "medicinalPlantName": "Hibiscus",
+        "scientificName": "Hibiscus rosa-sinensis",
+        "USAGE": "Consume as juice or powder for anemia and blood pressure.",
+        "noOfDosage": "Consume 10–20 ml of juice daily or one teaspoon of powder."
+    },
+    {
+        "SYMPTOMS": ["Constipation", "Diarrhea", "Digestive Disorders"],
+        "medicinalPlantName": "Bael",
+        "scientificName": "Aegle marmelos",
+        "USAGE": "Take as capsules or decoction for digestive disorders.",
+        "noOfDosage": "Take one teaspoon of powder or drink one cup of decoction daily."
+    },
+    {
+        "SYMPTOMS": ["Diabetes", "Infections", "Digestion Issues"],
+        "medicinalPlantName": "Bitter Gourd",
+        "scientificName": "Momordica charantia",
+        "USAGE": "Use as juice or add in meals for diabetes management.",
+        "noOfDosage": "Consume 30 ml of juice once daily."
+    },
+    {
+        "SYMPTOMS": ["Digestive Issues", "Bad Breath"],
+        "medicinalPlantName": "Cinnamon",
+        "scientificName": "Cinnamomum verum",
+        "USAGE": "Chew raw or brew as tea for digestive issues.",
+        "noOfDosage": "Chew one clove or drink one cup of tea daily."
+    },
+    {
+        "SYMPTOMS": ["Toothache", "Sore Throat"],
+        "medicinalPlantName": "Clove",
+        "scientificName": "Syzygium aromaticum",
+        "USAGE": "Use as oil for toothache or sore throat relief.",
+        "noOfDosage": "Apply oil once or gargle with decoction twice daily."
+    },
+    {
+        "SYMPTOMS": ["Constipation", "Cleansing"],
+        "medicinalPlantName": "Senna",
+        "scientificName": "Cassia angustifolia",
+        "USAGE": "Brew as tea or take capsules for cleansing.",
+        "noOfDosage": "Drink one cup of tea or take one capsule daily."
+    },
+    {
+        "SYMPTOMS": ["Digestion", "Weight Loss", "Inflammation"],
+        "medicinalPlantName": "Black Pepper",
+        "scientificName": "Piper nigrum",
+        "USAGE": "Add as spice in meals or brew tea for digestion.",
+        "noOfDosage": "Use a pinch of powder in meals or drink one cup of tea twice daily."
+    },
+    {
+        "SYMPTOMS": ["Water Retention", "Digestive Disorders"],
+        "medicinalPlantName": "Parsley",
+        "scientificName": "Petroselinum crispum",
+        "USAGE": "Consume as decoction or tea for water retention.",
+        "noOfDosage": "Drink one cup of decoction or tea once daily."
+    },
+    {
+        "SYMPTOMS": ["Indigestion", "Flatulence", "Appetite Loss"],
+        "medicinalPlantName": "Coriander",
+        "scientificName": "Coriandrum sativum",
+        "USAGE": "Brew as tea or chew seeds for flatulence and appetite.",
+        "noOfDosage": "Chew 1 teaspoon of seeds or drink one cup of tea twice daily."
+    },
+    {
+        "SYMPTOMS": ["Indigestion", "Throat Issues"],
+        "medicinalPlantName": "Cardamom",
+        "scientificName": "Elettaria cardamomum",
+        "USAGE": "Use as tea for throat soothing or digestion.",
+        "noOfDosage": "Drink one cup of tea twice daily."
+    },
+    {
+        "SYMPTOMS": ["Arthritis", "Inflammation", "Joint Pain"],
+        "medicinalPlantName": "Guggul",
+        "scientificName": "Commiphora mukul",
+        "USAGE": "Apply as oil or paste for arthritis or joint pain.",
+        "noOfDosage": "Apply oil or paste twice daily."
+    },
+    {
+        "SYMPTOMS": ["Constipation", "Digestive Cleansing"],
+        "medicinalPlantName": "Haritaki",
+        "scientificName": "Terminalia chebula",
+        "USAGE": "Brew as tea or consume capsules for digestive cleansing.",
+        "noOfDosage": "Drink one cup of tea or take one capsule daily."
+    },
+    {
+        "SYMPTOMS": ["Skin Conditions", "Detoxification"],
+        "medicinalPlantName": "Manjistha",
+        "scientificName": "Rubia cordifolia",
+        "USAGE": "Apply as paste for detoxification or consume juice for skin health.",
+        "noOfDosage": "Apply paste as needed or consume juice once daily."
+    },
+    {
+        "SYMPTOMS": ["Hair Loss", "Skin Rejuvenation"],
+        "medicinalPlantName": "Bhringraj",
+        "scientificName": "Eclipta alba",
+        "USAGE": "Use as hair oil or paste for hair loss and skin rejuvenation.",
+        "noOfDosage": "Apply oil or paste to scalp twice weekly."
+    },
+    {
+        "SYMPTOMS": ["Vitamin C Deficiency", "Joint Pain"],
+        "medicinalPlantName": "Rosehip",
+        "scientificName": "Rosa canina",
+        "USAGE": "Consume as tea or capsules for vitamin deficiency.",
+        "noOfDosage": "Consume one cup of tea or 500 mg capsules daily."
+    },
+    {
+        "SYMPTOMS": ["Antioxidant Deficiencies", "Fatigue"],
+        "medicinalPlantName": "Blueberry",
+        "scientificName": "Vaccinium corymbosum",
+        "USAGE": "Eat fresh or as juice for antioxidant support.",
+        "noOfDosage": "Eat one cup of fresh fruit or drink 30 ml of juice daily."
+    },
+    {
+        "SYMPTOMS": ["Mood Improvement", "Relaxation"],
+        "medicinalPlantName": "Saffron",
+        "scientificName": "Crocus sativus",
+        "USAGE": "Brew as tea or use in aroma oils for mood relaxation.",
+        "noOfDosage": "Drink one cup of tea or use oil aromatherapy once daily."
+    },
+    {
+        "SYMPTOMS": ["High Blood Pressure", "Alcohol Dependency"],
+        "medicinalPlantName": "Kudzu",
+        "scientificName": "Pueraria lobata",
+        "USAGE": "Use root extract or tea for high blood pressure and dependency issues.",
+        "noOfDosage": "Drink one cup of tea or take capsules twice daily."
+    }
+]
+      
+
+  

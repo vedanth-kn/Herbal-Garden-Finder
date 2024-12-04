@@ -1,8 +1,8 @@
-# Plant Disease Diagnosis Web Application
+# Harbal Garden Finder Web Application
 
 ## Project Introduction
 
-This project aims to diagnose plant leaf diseases and recommend medicinal plants based on user-reported symptoms. The backend is developed using Express.js and interfaces with MongoDB to manage plant-related data, while the frontend, built with React.js, offers a user-friendly interface for users to interact with the application.
+This project aims to recommend medicinal plants based on user-reported symptoms. The backend is developed using Express.js and interfaces with MongoDB to manage plant-related data. At the same time, the frontend, built with React.js, offers a user-friendly interface for users to interact with the application.
 
 ## Technologies Used
 
@@ -82,11 +82,3 @@ Before setting up the project, ensure you have the following installed:
 
 - Use MongoDB Compass to import the `.csv` or `.json` files located in the `dataset` folder into your MongoDB database.
 - Ensure the collection is set up correctly with fields such as `COMMON_NAME`, `SCIENTIFIC_NAME`, `USAGE`, `NO_OF_DOSAGE`, and `SYMPTOMS`.
-
-## Contributing
-
-Contributions are welcome! Please fork the repository and submit a pull request with your changes. For substantial changes, please open an issue first to discuss what you would like to enhance.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.

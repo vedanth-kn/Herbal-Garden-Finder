@@ -35,7 +35,7 @@ Before setting up the project, ensure you have the following installed:
 3. **Environment Variables**:
     - Add your MongoDB connection string in the backend at index.js line 10:
         ```js
-        MONGO_URI=your_mongodb_atlas_connection_string_here
+        const MONGO_URI = 'mongodb+srv://<username>:<password>@cluster0.vzc8z.mongodb.net/HerbalGardenDB?retryWrites=true&w=majority';
         ```
 
 4. **Start the Server**:

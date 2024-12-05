@@ -20,7 +20,7 @@ mongoose.connect(MONGO_URI, {
     scientificName: String,      
     usage: String,
     noOfDosage: String,      
-    symptoms: [String]
+    SYMPTOMS: [String]
   }, { collection: 'plants' });
 const Plant = mongoose.model('Plant', PlantSchema);
 

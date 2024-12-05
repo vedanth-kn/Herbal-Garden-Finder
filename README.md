@@ -16,7 +16,6 @@ This project aims to recommend medicinal plants based on user-reported symptoms.
 Before setting up the project, ensure you have the following installed:
 - Node.js (Download [here](https://nodejs.org/en/download/))
 - MongoDB (Set up a MongoDB Atlas account [here](https://www.mongodb.com/cloud/atlas))
-- Git (Download [here](https://git-scm.com/downloads))
 
 ## Installation Instructions
 
